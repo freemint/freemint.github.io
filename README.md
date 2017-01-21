@@ -39,4 +39,4 @@ Right now, the best place to get in touch is still the (new) [FreeMiNT Mailing L
 ## Acknowledgements
 
 - Johann-Tobias Schäg, for kindly letting us `freemint` name on github
-- Rob Mmahlert, for keeping http://sparemint.atariforge.net alive for so long and offering his server and domain for Atari projects
+- Rob Mahlert, for keeping http://sparemint.atariforge.net alive for so long and offering his server and domain for Atari projects
