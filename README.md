@@ -39,6 +39,5 @@ Right now, the best place to get in touch is still the (new) [FreeMiNT Mailing L
 Oh and by the way, the old mailing list can be found here: <http://mikro.atari.org/mint/index.html>, all the way back from 1993 to 2016.
 
 ## Acknowledgements
-
-- Johann-Tobias Schäg, for kindly letting us `freemint` name on github
+- Johann-Tobias Schäg, for kindly letting us have the `freemint` name on github
 - Rob Mahlert, for keeping <http://sparemint.atariforge.net> alive for so long and offering his server and domain for Atari projects
