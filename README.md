@@ -31,3 +31,12 @@ Those are the main (and most important) projects. There are several affiliated r
 - [tos.hyp](https://github.com/freemint/tos.hyp) (most complete programmer's reference for TOS/GEM programming)
 - [vlogin](https://github.com/freemint/vlogin) (VDI login)
 - [xg](https://github.com/freemint/xg) (X11 6.4 for GEM)
+
+## Get in touch
+
+Right now, the best place to get in touch is still the (new) [FreeMiNT Mailing List](http://mail.atariforge.org/mailman/listinfo/freemint-list) where all (more or less) FreeMiNT related things are discussed. If you just want to contribute or found a bug, check out [our wiki page](https://github.com/freemint/freemint/wiki/Newcomer%27s-corner#contributing) and/or [file an issue](https://github.com/freemint/freemint/issues).
+
+## Acknowledgements
+
+- Johann-Tobias Schäg, for kindly letting us `freemint` name on github
+- Rob Mmahlert, for keeping http://sparemint.atariforge.net alive for so long and offering his server and domain for Atari projects
