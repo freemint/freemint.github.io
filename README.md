@@ -21,7 +21,7 @@ Those are the main (and most important) projects. There are several affiliated r
 
 - [CFLib](https://github.com/freemint/lib/tree/master/cflib) (extension library for GEM programming)
 - [gemma](https://github.com/freemint/lib/tree/master/gemma) (SLB based GEM library)
-- [HighWire](https://github.com/freemint/highwire) (web browser)
+- [HighWire](https://github.com/freemint/highwire) (GEM web browser)
 - [init scripts](https://github.com/freemint/initscripts) (basic shell scripts for system startup)
 - [init](https://github.com/freemint/mintinit) (/sbin/init and related programs)
 - [oVDI](https://github.com/freemint/ovdi) (Odd Stancke's VDI project)
