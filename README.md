@@ -7,10 +7,10 @@ This website is a frontend for the [freemint github repositories](https://github
 FreeMiNT project is a community based hub for several more or less related projects:
 
 - [FreeMiNT](https://github.com/freemint/freemint) (kernel)
-- [XaAES](https://github.com/freemint/freemint/xaaes) (multitasking GEM AES replacement, part of FreeMiNT now)
+- [XaAES](https://github.com/freemint/freemint/tree/master/xaaes) (multitasking GEM AES replacement, part of FreeMiNT now)
 - [mintlib](https://github.com/freemint/mintlib) (libc for FreeMiNT and TOS, a C standard library)
 - [fdlibm](https://github.com/freemint/fdlibm) (libm for FreeMiNT and TOS, a C math library)
-- [gemlib](https://github.com/freemint/lib/gemlib) (GEM bindings for writing GEM apps)
+- [gemlib](https://github.com/freemint/lib/tree/master/gemlib) (GEM bindings for writing GEM apps)
 - [mintbin](https://github.com/freemint/mintbin) (set of, mostly deprecated, tools for manipulation with (Free)MiNT binaries)
 - [git](https://github.com/freemint/git) (experimental fork for FreeMiNT of the popular version control system)
 - [m68k-atari-mint-gcc](https://github.com/freemint/m68k-atari-mint-gcc) (gcc for FreeMiNT)
@@ -19,8 +19,8 @@ FreeMiNT project is a community based hub for several more or less related proje
 
 Those are the main (and most important) projects. There are several affiliated repositories, either for historical reasons or because the former SpareMiNT CVS server hosted them:
 
-- [CFLib](https://github.com/freemint/lib/cflib) (extension library for GEM programming)
-- [gemma](https://github.com/freemint/lib/gemma) (SLB based GEM library)
+- [CFLib](https://github.com/freemint/lib/tree/master/cflib) (extension library for GEM programming)
+- [gemma](https://github.com/freemint/lib/tree/master/gemma) (SLB based GEM library)
 - [HighWire](https://github.com/freemint/highwire) (web browser)
 - [init scripts](https://github.com/freemint/initscripts) (basic shell scripts for system startup)
 - [init](https://github.com/freemint/mintinit) (/sbin/init and related programs)
