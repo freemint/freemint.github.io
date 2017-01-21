@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Welcome to the FreeMiNT Project website
 
-You can use the [editor on GitHub](https://github.com/freemint/freemint.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This website is a frontend for the [freemint github repositories](https://github.com/freemint).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## FreeMiNT Project
 
-### Markdown
+FreeMiNT project is a community based hub for several more or less related projects:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- FreeMiNT (kernel)
+- XaAES (multitasking GEM AES replacement, part of FreeMiNT now)
+- mintlib (libc for FreeMiNT and TOS, a C standard library)
+- fdlibm (libm for FreeMiNT and TOS, a C math library)
+- gemlib (GEM bindings for writing GEM apps)
+- mintbin (set of, mostly deprecated, tools for manipulation with (Free)MiNT binaries)
+- git (experimental fork for FreeMiNT of the popular version control system)
+- m68k-atari-mint-gcc (gcc for FreeMiNT)
+- m68k-atari-mint-binutils-gdb (binutils and gdb for FreeMiNT)
+- freemint.github.io (project website sources, you're reading it)
 
-```markdown
-Syntax highlighted code block
+Those are the main (and most important projects). There are several affiliated repositories, either for historical reasons or because the former SpareMiNT CVS server hosted them:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/freemint/freemint.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- CFLib (extension library for GEM programming)
+- gemma (SLB based GEM library)
+- HighWire (web browser)
+- init scripts (basic shell scripts for system startup)
+- MiNT init (/sbin/init and related programs)
+- oVDI (Odd Stancke's VDI project)
+- Phoenix (database GEM app)
+- QED (GEM text editor)
+- Smurf (GEM painting app)
+- tos.hyp (most complete programmer's reference for TOS/GEM programming)
+- vlogin (VDI login)
+- xg (X11 6.4 for GEM)
