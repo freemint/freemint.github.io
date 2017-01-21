@@ -34,7 +34,9 @@ Those are the main (and most important) projects. There are several affiliated r
 
 ## Get in touch
 
-Right now, the best place to get in touch is still the (new) [FreeMiNT Mailing List](http://mail.atariforge.org/mailman/listinfo/freemint-list) where all (more or less) FreeMiNT related things are discussed. If you just want to contribute or found a bug, check out [our wiki page](https://github.com/freemint/freemint/wiki/Newcomer%27s-corner#contributing) and/or [file an issue](https://github.com/freemint/freemint/issues).
+Right now, the best place to get in touch is still the (new) [FreeMiNT Mailing List](http://mail.atariforge.org/mailman/listinfo/freemint-list) where all (more or less) FreeMiNT related things are discussed. If you want to contribute or found a bug, check out [our wiki page](https://github.com/freemint/freemint/wiki/Newcomer%27s-corner#contributing) and/or [file an issue](https://github.com/freemint/freemint/issues).
+
+Oh, and by the way, the old mailing list can be found here: http://mikro.atari.org/mint/index.html, all the way back from 1993 to 2016.
 
 ## Acknowledgements
 
