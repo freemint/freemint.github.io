@@ -31,6 +31,7 @@ Those are the main (and most important) projects. There are several affiliated r
 - [tos.hyp](https://github.com/freemint/tos.hyp) (most complete programmer's reference for TOS/GEM programming)
 - [vlogin](https://github.com/freemint/vlogin) (VDI login)
 - [xg](https://github.com/freemint/xg) (X11 6.4 for GEM)
+- [sparemint](https://github.com/freemint/sparemint) (SpareMiNT website and archive, predecessor of this hub)
 
 ## Get in touch
 
