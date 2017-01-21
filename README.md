@@ -24,7 +24,7 @@ Those are the main (and most important) projects. There are several affiliated r
 - [HighWire](https://github.com/freemint/highwire) (GEM web browser)
 - [init scripts](https://github.com/freemint/initscripts) (basic shell scripts for system startup)
 - [init](https://github.com/freemint/mintinit) (/sbin/init and related programs)
-- [oVDI](https://github.com/freemint/ovdi) (Odd Stancke's VDI project)
+- [oVDI](https://github.com/freemint/ovdi) (Odd Skancke's VDI project)
 - [Phoenix](https://github.com/freemint/phoenix) (database GEM app)
 - [QED](https://github.com/freemint/qed) (GEM text editor)
 - [Smurf](https://github.com/freemint/smurf) (GEM painting app)
