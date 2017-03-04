@@ -8,9 +8,9 @@ FreeMiNT project is a community based hub for several more or less related proje
 
 - [FreeMiNT](https://github.com/freemint/freemint) (kernel)
 - [XaAES](https://github.com/freemint/freemint/tree/master/xaaes) (multitasking GEM AES replacement, part of FreeMiNT now)
-- [mintlib](https://github.com/freemint/mintlib) (libc for FreeMiNT and TOS, a C standard library)
-- [fdlibm](https://github.com/freemint/fdlibm) (libm for FreeMiNT and TOS, a C math library)
-- [gemlib](https://github.com/freemint/lib/tree/master/gemlib) (GEM bindings for writing GEM apps)
+- [MiNTLib](https://github.com/freemint/mintlib) (libc for FreeMiNT and TOS, a C standard library)
+- [FdLibM](https://github.com/freemint/fdlibm) (libm for FreeMiNT and TOS, a C math library)
+- [GEMlib](https://github.com/freemint/lib/tree/master/gemlib) (GEM bindings for writing GEM apps)
 - [mintbin](https://github.com/freemint/mintbin) (set of, mostly deprecated, tools for manipulation of (Free)MiNT binaries)
 - [git](https://github.com/freemint/git) (experimental fork for FreeMiNT of the popular version control system)
 - [m68k-atari-mint-gcc](https://github.com/freemint/m68k-atari-mint-gcc) (gcc for FreeMiNT)
@@ -32,6 +32,30 @@ Those are the main (and most important) projects. There are several affiliated r
 - [vlogin](https://github.com/freemint/vlogin) (VDI login)
 - [xg](https://github.com/freemint/xg) (X11 6.4 for GEM)
 - [sparemint](https://github.com/freemint/sparemint) (SpareMiNT website and archive, predecessor of this hub; github mirror [here](https://freemint.github.io/sparemint/sparemint))
+
+## Download
+
+### Releases
+
+Official releases (mostly source only):
+
+- [FreeMiNT and XaAES](https://github.com/freemint/freemint/releases) (most complete release archive)
+- [MiNTLib](https://github.com/freemint/mintlib/releases)
+- [FdLibM](https://github.com/freemint/fdlibm/releases)
+- [GEMlib, CFLib, gemma](https://github.com/freemint/lib/releases)
+- [mintbin](https://github.com/freemint/mintbin/releases)
+- [QED](https://github.com/freemint/qed/releases)
+
+### Snapshots
+
+Latest binary snapshots of the most popular projects (built after each commit):
+
+- [FreeMiNT and XaAES](https://github.com/freemint/freemint.github.io/tree/master/builds/freemint)
+- [MiNTLib](https://github.com/freemint/freemint.github.io/tree/master/builds/mintlib)
+- [FdLibM](https://github.com/freemint/freemint.github.io/tree/master/builds/fdlibm)
+- [GEMlib, CFLib, gemma](https://github.com/freemint/freemint.github.io/tree/master/builds/lib)
+- [mintbin](https://github.com/freemint/freemint.github.io/tree/master/builds/lib)
+- [QED](https://github.com/freemint/freemint.github.io/tree/master/builds/lib)
 
 ## Get in touch
 
