@@ -43,6 +43,7 @@ Official releases (mostly source only):
 - [GEMlib, CFLib, gemma](https://github.com/freemint/lib/releases)
 - [mintbin](https://github.com/freemint/mintbin/releases)
 - [QED](https://github.com/freemint/qed/releases)
+
 ### Snapshots
 Latest binary snapshots (built after each commit):
 - [FreeMiNT and XaAES](https://github.com/freemint/freemint.github.io/tree/master/builds/freemint)
