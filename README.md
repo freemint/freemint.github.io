@@ -34,22 +34,17 @@ Those are the main (and most important) projects. There are several affiliated r
 - [sparemint](https://github.com/freemint/sparemint) (SpareMiNT website and archive, predecessor of this hub; github mirror [here](https://freemint.github.io/sparemint/sparemint))
 
 ## Download
-
 ### Releases
 
 Official releases (mostly source only):
-
 - [FreeMiNT and XaAES](https://github.com/freemint/freemint/releases) (most complete release archive)
 - [MiNTLib](https://github.com/freemint/mintlib/releases)
 - [FdLibM](https://github.com/freemint/fdlibm/releases)
 - [GEMlib, CFLib, gemma](https://github.com/freemint/lib/releases)
 - [mintbin](https://github.com/freemint/mintbin/releases)
 - [QED](https://github.com/freemint/qed/releases)
-
 ### Snapshots
-
-Latest binary snapshots of the most popular projects (built after each commit):
-
+Latest binary snapshots (built after each commit):
 - [FreeMiNT and XaAES](https://github.com/freemint/freemint.github.io/tree/master/builds/freemint)
 - [MiNTLib](https://github.com/freemint/freemint.github.io/tree/master/builds/mintlib)
 - [FdLibM](https://github.com/freemint/freemint.github.io/tree/master/builds/fdlibm)
