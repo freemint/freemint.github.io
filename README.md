@@ -50,8 +50,8 @@ Latest binary snapshots (built after each commit):
 - [MiNTLib](https://github.com/freemint/freemint.github.io/tree/master/builds/mintlib)
 - [FdLibM](https://github.com/freemint/freemint.github.io/tree/master/builds/fdlibm)
 - [GEMlib, CFLib, gemma](https://github.com/freemint/freemint.github.io/tree/master/builds/lib)
-- [mintbin](https://github.com/freemint/freemint.github.io/tree/master/builds/lib)
-- [QED](https://github.com/freemint/freemint.github.io/tree/master/builds/lib)
+- [mintbin](https://github.com/freemint/freemint.github.io/tree/master/builds/mintbin)
+- [QED](https://github.com/freemint/freemint.github.io/tree/master/builds/qed)
 
 ## Get in touch
 
