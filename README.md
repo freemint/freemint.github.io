@@ -46,12 +46,12 @@ Official releases (mostly source only):
 
 ### Snapshots
 Latest binary snapshots (built after each commit):
-- [FreeMiNT and XaAES](https://github.com/freemint/freemint.github.io/tree/master/builds/freemint)
-- [MiNTLib](https://github.com/freemint/freemint.github.io/tree/master/builds/mintlib)
-- [FdLibM](https://github.com/freemint/freemint.github.io/tree/master/builds/fdlibm)
-- [GEMlib, CFLib, gemma](https://github.com/freemint/freemint.github.io/tree/master/builds/lib)
-- [mintbin](https://github.com/freemint/freemint.github.io/tree/master/builds/mintbin)
-- [QED](https://github.com/freemint/freemint.github.io/tree/master/builds/qed)
+- [FreeMiNT and XaAES](https://github.com/freemint/freemint.github.io/tree/master/builds/freemint/master)
+- [MiNTLib](https://github.com/freemint/freemint.github.io/tree/master/builds/mintlib/master)
+- [FdLibM](https://github.com/freemint/freemint.github.io/tree/master/builds/fdlibm/master)
+- [GEMlib, CFLib, gemma](https://github.com/freemint/freemint.github.io/tree/master/builds/lib/master)
+- [mintbin](https://github.com/freemint/freemint.github.io/tree/master/builds/mintbin/master)
+- [QED](https://github.com/freemint/freemint.github.io/tree/master/builds/qed/master)
 
 ## Get in touch
 
