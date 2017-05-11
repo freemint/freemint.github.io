@@ -46,7 +46,7 @@ Official releases (mostly source only):
 
 ### Snapshots
 Latest binary snapshots (built after each commit):
-- [FreeMiNT and XaAES](https://github.com/freemint/freemint.github.io/tree/master/builds/freemint/master/new) (alternate builds: [All CPUs](https://github.com/freemint/freemint.github.io/tree/master/builds/freemint/master/old), [Helmut Karlowski](https://github.com/freemint/freemint.github.io/tree/master/builds/freemint/helmut-enhancements))
+- [FreeMiNT and XaAES](https://github.com/freemint/freemint.github.io/tree/master/builds/freemint/master) (alternate builds: [Helmut Karlowski](https://github.com/freemint/freemint.github.io/tree/master/builds/freemint/helmut-enhancements))
 - [MiNTlib](https://github.com/freemint/freemint.github.io/tree/master/builds/mintlib/master)
 - [FDlibm](https://github.com/freemint/freemint.github.io/tree/master/builds/fdlibm/master)
 - [GEMlib, CFLib, gemma](https://github.com/freemint/freemint.github.io/tree/master/builds/lib/master)
