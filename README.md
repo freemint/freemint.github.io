@@ -46,7 +46,7 @@ Official releases (mostly source only):
 
 ### Snapshots
 Latest binary snapshots (built after each commit):
-- [FreeMiNT and XaAES](https://github.com/freemint/freemint.github.io/tree/master/builds/freemint/master/new); alternate builds available (with the original file tree structure as on [freemint.org](http://freemint.org)), i.e. binaries for all CPU combinations:
+- [FreeMiNT and XaAES](https://github.com/freemint/freemint.github.io/tree/master/builds/freemint/master/new); alternate builds available (with the original file tree structure as on [freemint.org](http://freemint.org), i.e. binaries for all CPU combinations):
   - [trunk](https://github.com/freemint/freemint.github.io/tree/master/builds/freemint/master/old) (master branch)
   - [helmut](https://github.com/freemint/freemint.github.io/tree/master/builds/freemint/helmut-enhancements/old) (Helmut Karlowski's branch)
   - [freemint-1_18](https://github.com/freemint/freemint.github.io/tree/master/builds/freemint/freemint-1_18/old)  (FreeMiNT 1.18 branch)
