@@ -62,7 +62,7 @@ Right now, the best place to get in touch is the (new) [FreeMiNT Mailing List](h
 
 The old mailing list can be found here: <http://mikro.atari.org/mint/index.html>, all the way back from 1993 to 2016/2017.
 
-The short-lived attempt to have an AtariForge-hosted mailing list can be found here: <http://mail.atariforge.org/pipermail/freemint-list>, from 05/2016 to 10/2017 (the archive above actually has a mirror of this one as well).
+The archive above also contains the short-lived attempt to have an AtariForge-hosted mailing list (from 05/2016 to 10/2017).
 
 ## Acknowledgements
 - Johann-Tobias Schäg, for kindly letting us have the `freemint` name on github
