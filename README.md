@@ -46,10 +46,10 @@ Official releases (mostly source only):
 
 ### Snapshots
 Latest binary snapshots (built after each commit):
-- [FreeMiNT and XaAES](https://github.com/freemint/freemint.github.io/tree/master/builds/freemint/master/new) (bootable, preconfigured and maintained archives for the ST, 020+ machines and the FireBee); alternatively you might be interested in the "old school" builds done for all CPU combinations, with the original file tree structure as on [freemint.org](http://freemint.org):
-  - [trunk](https://github.com/freemint/freemint.github.io/tree/master/builds/freemint/master/old) (master branch)
-  - [helmut](https://github.com/freemint/freemint.github.io/tree/master/builds/freemint/helmut-enhancements/old) (Helmut Karlowski's branch)
-  - [freemint-1_18](https://github.com/freemint/freemint.github.io/tree/master/builds/freemint/freemint-1_18/old)  (FreeMiNT 1.18 branch)
+- FreeMiNT and XaAES: [ ![Download](https://api.bintray.com/packages/freemint/freemint/snapshots/images/download.svg) ](https://bintray.com/freemint/freemint/snapshots/_latestVersion) (bootable, preconfigured and maintained archives for the ST, 020+ machines and the FireBee); alternatively you might be interested in the "old school" builds done for all CPU combinations, with the original file tree structure as on [freemint.org](http://freemint.org):
+  - trunk: [ ![Download](https://api.bintray.com/packages/freemint/freemint/snapshots-raw/images/download.svg) ](https://bintray.com/freemint/freemint/snapshots-raw/_latestVersion) (master branch)
+  - helmut: [ ![Download](https://api.bintray.com/packages/freemint/freemint/snapshots-helmut-raw/images/download.svg) ](https://bintray.com/freemint/freemint/snapshots-helmut-raw/_latestVersion) (Helmut Karlowski's branch)
+  - freemint-1_18: [ ![Download](https://api.bintray.com/packages/freemint/freemint/snapshots-1.18-raw/images/download.svg) ](https://bintray.com/freemint/freemint/snapshots-1.18-raw/_latestVersion) (FreeMiNT 1.18 branch)
 - [MiNTlib](https://github.com/freemint/freemint.github.io/tree/master/builds/mintlib/master)
 - [FDlibm](https://github.com/freemint/freemint.github.io/tree/master/builds/fdlibm/master)
 - [GEMlib, CFLib, gemma](https://github.com/freemint/freemint.github.io/tree/master/builds/lib/master)
