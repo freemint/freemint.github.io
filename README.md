@@ -10,7 +10,7 @@ FreeMiNT project is a community based hub for several more or less related proje
 - [XaAES](https://github.com/freemint/freemint/tree/master/xaaes) (multitasking GEM AES replacement, part of FreeMiNT now)
 - [MiNTlib](https://github.com/freemint/mintlib) (libc for FreeMiNT and TOS, a C standard library)
 - [FDlibm](https://github.com/freemint/fdlibm) (libm for FreeMiNT and TOS, a C math library)
-- [GEMlib](https://github.com/freemint/lib/tree/master/gemlib) (GEM bindings for writing GEM apps)
+- [GEMlib](https://github.com/freemint/gemlib/tree/master) (GEM bindings for writing GEM apps)
 - [MiNTbin](https://github.com/freemint/mintbin) (set of, mostly deprecated, tools for manipulation of (Free)MiNT binaries)
 - [git](https://github.com/freemint/git) (experimental fork for FreeMiNT of the popular version control system)
 - [m68k-atari-mint-gcc](https://github.com/freemint/m68k-atari-mint-gcc) (gcc for FreeMiNT)
@@ -19,8 +19,8 @@ FreeMiNT project is a community based hub for several more or less related proje
 
 Those are the main (and most important) projects. There are several affiliated repositories, either for historical reasons or because the former SpareMiNT CVS server hosted them:
 
-- [CFLib](https://github.com/freemint/lib/tree/master/cflib) (extension library for GEM programming)
-- [gemma](https://github.com/freemint/lib/tree/master/gemma) (SLB based GEM library)
+- [CFLib](https://github.com/freemint/cflib/tree/master) (extension library for GEM programming)
+- [gemma](https://github.com/freemint/gemma/tree/master) (SLB based GEM library)
 - [HighWire](https://github.com/freemint/highwire) (GEM web browser)
 - [init scripts](https://github.com/freemint/initscripts) (basic shell scripts for system startup)
 - [init](https://github.com/freemint/mintinit) (/sbin/init and related programs)
@@ -40,7 +40,9 @@ Official releases (mostly source only):
 - [FreeMiNT and XaAES](https://github.com/freemint/freemint/releases) (most complete release archive)
 - [MiNTlib](https://github.com/freemint/mintlib/releases)
 - [FDlibm](https://github.com/freemint/fdlibm/releases)
-- [GEMlib, CFLib, gemma](https://github.com/freemint/lib/releases)
+- [GEMlib](https://github.com/freemint/gemlib/releases)
+- [CFLib](https://github.com/freemint/cflib/releases)
+- [gemma](https://github.com/freemint/gemma/releases)
 - [MiNTbin](https://github.com/freemint/mintbin/releases)
 - [QED](https://github.com/freemint/qed/releases)
 
@@ -52,7 +54,9 @@ Latest binary snapshots (built after each commit):
   - freemint-1_18: [ ![Download](https://api.bintray.com/packages/freemint/freemint/snapshots-1.18-raw/images/download.svg) ](https://bintray.com/freemint/freemint/snapshots-1.18-raw/_latestVersion) (FreeMiNT 1.18 branch)
 - [MiNTlib](https://github.com/freemint/freemint.github.io/tree/master/builds/mintlib/master)
 - [FDlibm](https://github.com/freemint/freemint.github.io/tree/master/builds/fdlibm/master)
-- [GEMlib, CFLib, gemma](https://github.com/freemint/freemint.github.io/tree/master/builds/lib/master)
+- [GEMlib](https://github.com/freemint/freemint.github.io/tree/master/builds/gemlib/master)
+- [CFLib](https://github.com/freemint/freemint.github.io/tree/master/builds/cflib/master)
+- [gemma](https://github.com/freemint/freemint.github.io/tree/master/builds/gemma/master)
 - [MiNTbin](https://github.com/freemint/freemint.github.io/tree/master/builds/mintbin/master)
 - [QED](https://github.com/freemint/freemint.github.io/tree/master/builds/qed/master)
 
