@@ -26,6 +26,7 @@ Those are the main (and most important) projects. There are several affiliated r
 - [HypView](https://github.com/freemint/hypview) (ST-Guide replacement)
 - [tos.hyp](https://github.com/freemint/tos.hyp) (most complete programmer's reference for TOS/GEM programming)
 
+
 - [HighWire](https://github.com/freemint/highwire) (GEM web browser)
 - [Phoenix](https://github.com/freemint/phoenix) (database GEM app)
 - [Smurf](https://github.com/freemint/smurf) (GEM painting app)
