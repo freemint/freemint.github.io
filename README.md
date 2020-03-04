@@ -17,20 +17,23 @@ FreeMiNT project is a community based hub for several more or less related proje
 - [m68k-atari-mint-binutils-gdb](https://github.com/freemint/m68k-atari-mint-binutils-gdb) (binutils and gdb for FreeMiNT)
 - [freemint.github.io](https://github.com/freemint/freemint.github.io) (project website sources, you're reading it)
 
-Those are the main (and most important) projects. There are several affiliated repositories, either for historical reasons or because the former SpareMiNT CVS server hosted them:
+Those are the main (and most important) projects. There are several affiliated repositories, either for historical reasons or because the former SpareMiNT CVS server hosted them (the first section belongs to projects which are still actively maintained):
 
 - [CFLib](https://github.com/freemint/cflib/tree/master) (extension library for GEM programming)
 - [gemma](https://github.com/freemint/gemma/tree/master) (SLB based GEM library)
-- [HighWire](https://github.com/freemint/highwire) (GEM web browser)
-- [init scripts](https://github.com/freemint/initscripts) (basic shell scripts for system startup)
-- [init](https://github.com/freemint/mintinit) (/sbin/init and related programs)
-- [oVDI](https://github.com/freemint/ovdi) (Odd Skancke's VDI project)
-- [Phoenix](https://github.com/freemint/phoenix) (database GEM app)
 - [QED](https://github.com/freemint/qed) (GEM text editor)
-- [Smurf](https://github.com/freemint/smurf) (GEM painting app)
+- [COPS](https://github.com/freemint/cops) (XCONTROL.ACC replacement)
+- [HypView](https://github.com/freemint/hypview) (ST-Guide replacement)
 - [tos.hyp](https://github.com/freemint/tos.hyp) (most complete programmer's reference for TOS/GEM programming)
+
+- [HighWire](https://github.com/freemint/highwire) (GEM web browser)
+- [Phoenix](https://github.com/freemint/phoenix) (database GEM app)
+- [Smurf](https://github.com/freemint/smurf) (GEM painting app)
+- [oVDI](https://github.com/freemint/ovdi) (Odd Skancke's VDI project)
 - [vlogin](https://github.com/freemint/vlogin) (VDI login)
 - [xg](https://github.com/freemint/xg) (X11 6.4 for GEM)
+- [init](https://github.com/freemint/mintinit) (/sbin/init and related programs)
+- [init scripts](https://github.com/freemint/initscripts) (basic shell scripts for system startup)
 - [sparemint](https://github.com/freemint/sparemint) (SpareMiNT website and archive, predecessor of this hub; github mirror [here](https://freemint.github.io/sparemint/sparemint))
 
 ## Download
