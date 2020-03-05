@@ -10,7 +10,7 @@ FreeMiNT project is a community based hub for several more or less related proje
 - [XaAES](https://github.com/freemint/freemint/tree/master/xaaes) (multitasking GEM AES replacement, part of FreeMiNT now)
 - [MiNTlib](https://github.com/freemint/mintlib) (libc for FreeMiNT and TOS, a C standard library)
 - [FDlibm](https://github.com/freemint/fdlibm) (libm for FreeMiNT and TOS, a C math library)
-- [GEMlib](https://github.com/freemint/gemlib/tree/master) (GEM bindings for writing GEM apps)
+- [GEMlib](https://github.com/freemint/gemlib) (GEM bindings for writing GEM apps)
 - [MiNTbin](https://github.com/freemint/mintbin) (set of, mostly deprecated, tools for manipulation of (Free)MiNT binaries)
 - [git](https://github.com/freemint/git) (experimental fork for FreeMiNT of the popular version control system)
 - [m68k-atari-mint-gcc](https://github.com/freemint/m68k-atari-mint-gcc) (gcc for FreeMiNT)
@@ -19,12 +19,13 @@ FreeMiNT project is a community based hub for several more or less related proje
 
 Those are the main (and most important) projects. There are several affiliated repositories, either for historical reasons or because the former SpareMiNT CVS server hosted them (the first section belongs to projects which are still actively maintained):
 
-- [CFLib](https://github.com/freemint/cflib/tree/master) (extension library for GEM programming)
-- [gemma](https://github.com/freemint/gemma/tree/master) (SLB based GEM library)
+- [CFLib](https://github.com/freemint/cflib) (extension library for GEM programming)
+- [gemma](https://github.com/freemint/gemma) (SLB based GEM library)
+- [TosWin2](https://github.com/freemint/toswin2) (GEM terminal emulator)
 - [QED](https://github.com/freemint/qed) (GEM text editor)
 - [COPS](https://github.com/freemint/cops) (XCONTROL.ACC replacement)
 - [HypView](https://github.com/freemint/hypview) (ST-Guide replacement)
-- [tos.hyp](https://github.com/freemint/tos.hyp) (most complete programmer's reference for TOS/GEM programming)
+- [tos.hyp](https://github.com/freemint/tos.hyp) (most complete programmer's reference for TOS/GEM programming, generated [here](https://freemint.github.io/tos.hyp))
 
 
 - [HighWire](https://github.com/freemint/highwire) (GEM web browser)
@@ -35,6 +36,7 @@ Those are the main (and most important) projects. There are several affiliated r
 - [xg](https://github.com/freemint/xg) (X11 6.4 for GEM)
 - [init](https://github.com/freemint/mintinit) (/sbin/init and related programs)
 - [init scripts](https://github.com/freemint/initscripts) (basic shell scripts for system startup)
+- [wiki tools](https://github.com/freemint/wikitools) (a couple of scripts to convert between UDO and old sparemint wiki)
 - [sparemint](https://github.com/freemint/sparemint) (SpareMiNT website and archive, predecessor of this hub; github mirror [here](https://freemint.github.io/sparemint/sparemint))
 
 ## Download
