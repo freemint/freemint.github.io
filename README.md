@@ -19,6 +19,7 @@ FreeMiNT project is a community based hub for several more or less related proje
 
 Those are the main (and most important) projects. There are several affiliated repositories, either for historical reasons or because the former SpareMiNT CVS server hosted them (the first section belongs to projects which are still actively maintained):
 
+- [libcmini](https://github.com/freemint/libcmini) (minimalistic C library)
 - [CFLib](https://github.com/freemint/cflib) (extension library for GEM programming)
 - [gemma](https://github.com/freemint/gemma) (SLB based GEM library)
 - [TosWin2](https://github.com/freemint/toswin2) (GEM terminal emulator)
@@ -47,10 +48,18 @@ Official releases (mostly source only):
 - [MiNTlib](https://github.com/freemint/mintlib/releases)
 - [FDlibm](https://github.com/freemint/fdlibm/releases)
 - [GEMlib](https://github.com/freemint/gemlib/releases)
+- [MiNTbin](https://github.com/freemint/mintbin/releases)
+- [git](https://github.com/freemint/git/releases)
+- [m68k-atari-mint-gcc](https://github.com/freemint/m68k-atari-mint-gcc/releases)
+- [m68k-atari-mint-binutils-gdb](https://github.com/freemint/m68k-atari-mint-binutils-gdb/releases)
+
+- [libcmini](https://github.com/freemint/libcmini/releases)
 - [CFLib](https://github.com/freemint/cflib/releases)
 - [gemma](https://github.com/freemint/gemma/releases)
-- [MiNTbin](https://github.com/freemint/mintbin/releases)
+- [TosWin2](https://github.com/freemint/toswin2/releases)
 - [QED](https://github.com/freemint/qed/releases)
+- [COPS](https://github.com/freemint/cops/releases)
+- [HypView](https://github.com/freemint/hypview/releases)
 
 ### Snapshots
 Latest binary snapshots (built after each commit):
