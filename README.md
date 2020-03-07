@@ -63,11 +63,9 @@ Official releases (mostly source only):
 
 ### Snapshots
 Latest binary snapshots (built after each commit):
-- FreeMiNT and XaAES: [ ![Download](https://api.bintray.com/packages/freemint/freemint/snapshots/images/download.svg) ](https://bintray.com/freemint/freemint/snapshots/_latestVersion) (bootable, preconfigured and maintained archives for the ST, 020+ machines, ARAnyM and the FireBee) and [ ![Download](https://api.bintray.com/packages/freemint/freemint/snapshots-cpu/images/download.svg) ](https://bintray.com/freemint/freemint/snapshots-cpu/_latestVersion) (per-CPU builds, if you prefer just upgrading an existing installation on your machine). For historical purposes, you can download the last "old school" builds done for all CPU combinations, with the original file tree structure as on [freemint.org](http://freemint.org):
-  - trunk: [ ![Download](https://api.bintray.com/packages/freemint/freemint/snapshots-raw/images/download.svg) ](https://bintray.com/freemint/freemint/snapshots-raw/_latestVersion) (master branch)
-  - helmut: [ ![Download](https://api.bintray.com/packages/freemint/freemint/snapshots-helmut-raw/images/download.svg) ](https://bintray.com/freemint/freemint/snapshots-helmut-raw/_latestVersion) (Helmut Karlowski's branch)
-  - freemint-1_18: [ ![Download](https://api.bintray.com/packages/freemint/freemint/snapshots-1.18-raw/images/download.svg) ](https://bintray.com/freemint/freemint/snapshots-1.18-raw/_latestVersion) (FreeMiNT 1.18 branch)
-- USB TOS drivers: [ ![Download](https://api.bintray.com/packages/freemint/freemint/snapshots-usb4tos/images/download.svg) ](https://bintray.com/freemint/freemint/snapshots-usb4tos/_latestVersion)
+- [ ![Download](https://api.bintray.com/packages/freemint/freemint/snapshots/images/download.svg) ](https://bintray.com/freemint/freemint/snapshots/_latestVersion) - bootable, preconfigured and maintained FreeMiNT/XaAES archives for the ST, 020+ machines, ARAnyM and the FireBee
+- [ ![Download](https://api.bintray.com/packages/freemint/freemint/snapshots-cpu/images/download.svg) ](https://bintray.com/freemint/freemint/snapshots-cpu/_latestVersion) - per-CPU builds, if you prefer just upgrading an existing installation on your machine, do not include a desktop nor other non-freemint applications
+- [ ![Download](https://api.bintray.com/packages/freemint/freemint/snapshots-usb4tos/images/download.svg) ](https://bintray.com/freemint/freemint/snapshots-usb4tos/_latestVersion) - USB drivers for TOS (68000 only)
 - [MiNTlib](https://github.com/freemint/freemint.github.io/tree/master/builds/mintlib/master)
 - [FDlibm](https://github.com/freemint/freemint.github.io/tree/master/builds/fdlibm/master)
 - [GEMlib](https://github.com/freemint/freemint.github.io/tree/master/builds/gemlib/master)
