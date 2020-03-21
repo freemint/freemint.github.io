@@ -28,7 +28,6 @@ Those are the main (and most important) projects. There are several affiliated r
 - [HypView](https://github.com/freemint/hypview) (ST-Guide replacement)
 - [tos.hyp](https://github.com/freemint/tos.hyp) (most complete programmer's reference for TOS/GEM programming, generated [here](https://freemint.github.io/tos.hyp))
 
-
 - [HighWire](https://github.com/freemint/highwire) (GEM web browser)
 - [Phoenix](https://github.com/freemint/phoenix) (database GEM app)
 - [Smurf](https://github.com/freemint/smurf) (GEM painting app)
@@ -63,16 +62,19 @@ Official releases (mostly source only):
 
 ### Snapshots
 Latest binary snapshots (built after each commit):
-- [ ![Download](https://api.bintray.com/packages/freemint/freemint/snapshots/images/download.svg) ](https://bintray.com/freemint/freemint/snapshots/_latestVersion) - bootable, preconfigured and maintained FreeMiNT/XaAES archives for the ST, 020+ machines, ARAnyM and the FireBee
-- [ ![Download](https://api.bintray.com/packages/freemint/freemint/snapshots-cpu/images/download.svg) ](https://bintray.com/freemint/freemint/snapshots-cpu/_latestVersion) - per-CPU builds, if you prefer just upgrading an existing installation on your machine, do not include a desktop nor other non-freemint applications
-- [ ![Download](https://api.bintray.com/packages/freemint/freemint/snapshots-usb4tos/images/download.svg) ](https://bintray.com/freemint/freemint/snapshots-usb4tos/_latestVersion) - USB drivers for TOS (68000 only)
-- [MiNTlib](https://github.com/freemint/freemint.github.io/tree/master/builds/mintlib/master)
-- [FDlibm](https://github.com/freemint/freemint.github.io/tree/master/builds/fdlibm/master)
-- [GEMlib](https://github.com/freemint/freemint.github.io/tree/master/builds/gemlib/master)
-- [CFLib](https://github.com/freemint/freemint.github.io/tree/master/builds/cflib/master)
-- [gemma](https://github.com/freemint/freemint.github.io/tree/master/builds/gemma/master)
-- [MiNTbin](https://github.com/freemint/freemint.github.io/tree/master/builds/mintbin/master)
-- [QED](https://github.com/freemint/freemint.github.io/tree/master/builds/qed/master)
+- FreeMiNT and XaAES [ ![Download](https://api.bintray.com/packages/freemint/freemint/snapshots/images/download.svg) ](https://bintray.com/freemint/freemint/snapshots/_latestVersion) - bootable, preconfigured and maintained FreeMiNT/XaAES archives for the ST, 020+ machines, ARAnyM and the FireBee
+- FreeMiNT and XaAES [ ![Download](https://api.bintray.com/packages/freemint/freemint/snapshots-cpu/images/download.svg) ](https://bintray.com/freemint/freemint/snapshots-cpu/_latestVersion) - per-CPU builds, if you prefer just upgrading an existing installation on your machine, do not include a desktop nor other non-freemint applications
+- USB drivers for TOS [ ![Download](https://api.bintray.com/packages/freemint/freemint/snapshots-usb4tos/images/download.svg) ](https://bintray.com/freemint/freemint/snapshots-usb4tos/_latestVersion) (68000 only)
+- MiNTlib [ ![Download](https://api.bintray.com/packages/freemint/freemint/mintlib/images/download.svg) ](https://bintray.com/freemint/freemint/mintlib/_latestVersion)
+- FDlibm [ ![Download](https://api.bintray.com/packages/freemint/freemint/fdlibm/images/download.svg) ](https://bintray.com/freemint/freemint/fdlibm/_latestVersion)
+- GEMlib [ ![Download](https://api.bintray.com/packages/freemint/freemint/gemlib/images/download.svg) ](https://bintray.com/freemint/freemint/gemlib/_latestVersion)
+- MiNTbin [ ![Download](https://api.bintray.com/packages/freemint/freemint/mintbin/images/download.svg) ](https://bintray.com/freemint/freemint/mintbin/_latestVersion)
+- CFLib [ ![Download](https://api.bintray.com/packages/freemint/freemint/cflib/images/download.svg) ](https://bintray.com/freemint/freemint/cflib/_latestVersion)
+- gemma [ ![Download](https://api.bintray.com/packages/freemint/freemint/gemma/images/download.svg) ](https://bintray.com/freemint/freemint/gemma/_latestVersion)
+- TosWin2 [ ![Download](https://api.bintray.com/packages/freemint/freemint/toswin2/images/download.svg) ](https://bintray.com/freemint/freemint/toswin2/_latestVersion)
+- QED [ ![Download](https://api.bintray.com/packages/freemint/freemint/qed/images/download.svg) ](https://bintray.com/freemint/freemint/qed/_latestVersion)
+- COPS [ ![Download](https://api.bintray.com/packages/freemint/freemint/cops/images/download.svg) ](https://bintray.com/freemint/freemint/cops/_latestVersion)
+- HypView [ ![Download](https://api.bintray.com/packages/freemint/freemint/hypview/images/download.svg) ](https://bintray.com/freemint/freemint/hypview/_latestVersion)
 
 ## Get in touch
 
