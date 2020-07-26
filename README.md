@@ -26,6 +26,7 @@ Those are the main (and most important) projects. There are several affiliated r
 - [QED](https://github.com/freemint/qed) (GEM text editor)
 - [COPS](https://github.com/freemint/cops) (XCONTROL.ACC replacement)
 - [HypView](https://github.com/freemint/hypview) (ST-Guide replacement)
+- [fVDI](https://github.com/freemint/fvdi) (Fenix VDI, a free (N)VDI replacement)
 - [tos.hyp](https://github.com/freemint/tos.hyp) (most complete programmer's reference for TOS/GEM programming, generated [here](https://freemint.github.io/tos.hyp))
 
 - [HighWire](https://github.com/freemint/highwire) (GEM web browser)
@@ -59,6 +60,7 @@ Official releases (mostly source only):
 - [QED](https://github.com/freemint/qed/releases)
 - [COPS](https://github.com/freemint/cops/releases)
 - [HypView](https://github.com/freemint/hypview/releases)
+- [fVDI](https://github.com/freemint/fvdi/releases)
 
 ### Snapshots
 Latest binary snapshots (built after each commit):
@@ -75,6 +77,7 @@ Latest binary snapshots (built after each commit):
 - QED [ ![Download](https://api.bintray.com/packages/freemint/freemint/qed/images/download.svg) ](https://bintray.com/freemint/freemint/qed/_latestVersion)
 - COPS [ ![Download](https://api.bintray.com/packages/freemint/freemint/cops/images/download.svg) ](https://bintray.com/freemint/freemint/cops/_latestVersion)
 - HypView [ ![Download](https://api.bintray.com/packages/freemint/freemint/hypview/images/download.svg) ](https://bintray.com/freemint/freemint/hypview/_latestVersion)
+- fVDI [ ![Download](https://api.bintray.com/packages/freemint/app/fvdi/images/download.svg) ](https://bintray.com/freemint/app/fvdi/_latestVersion)
 
 ## Get in touch
 
