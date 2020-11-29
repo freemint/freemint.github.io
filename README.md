@@ -67,16 +67,16 @@ Latest binary snapshots (built after each commit):
 - FreeMiNT and XaAES [ ![Download](https://api.bintray.com/packages/freemint/freemint/snapshots/images/download.svg) ](https://bintray.com/freemint/freemint/snapshots/_latestVersion) - bootable, preconfigured and maintained FreeMiNT/XaAES archives for the ST, 020+ machines, ARAnyM and the FireBee
 - FreeMiNT and XaAES [ ![Download](https://api.bintray.com/packages/freemint/freemint/snapshots-cpu/images/download.svg) ](https://bintray.com/freemint/freemint/snapshots-cpu/_latestVersion) - per-CPU builds, if you prefer just upgrading an existing installation on your machine, do not include a desktop nor other non-freemint applications
 - USB drivers for TOS [ ![Download](https://api.bintray.com/packages/freemint/freemint/snapshots-usb4tos/images/download.svg) ](https://bintray.com/freemint/freemint/snapshots-usb4tos/_latestVersion) (68000 only)
-- MiNTlib [ ![Download](https://api.bintray.com/packages/freemint/freemint/mintlib/images/download.svg) ](https://bintray.com/freemint/freemint/mintlib/_latestVersion)
-- FDlibm [ ![Download](https://api.bintray.com/packages/freemint/freemint/fdlibm/images/download.svg) ](https://bintray.com/freemint/freemint/fdlibm/_latestVersion)
-- GEMlib [ ![Download](https://api.bintray.com/packages/freemint/freemint/gemlib/images/download.svg) ](https://bintray.com/freemint/freemint/gemlib/_latestVersion)
+- MiNTlib [ ![Download](https://api.bintray.com/packages/freemint/lib/mintlib/images/download.svg) ](https://bintray.com/freemint/lib/mintlib/_latestVersion)
+- FDlibm [ ![Download](https://api.bintray.com/packages/freemint/lib/fdlibm/images/download.svg) ](https://bintray.com/freemint/lib/fdlibm/_latestVersion)
+- GEMlib [ ![Download](https://api.bintray.com/packages/freemint/lib/gemlib/images/download.svg) ](https://bintray.com/freemint/lib/gemlib/_latestVersion)
 - MiNTbin [ ![Download](https://api.bintray.com/packages/freemint/freemint/mintbin/images/download.svg) ](https://bintray.com/freemint/freemint/mintbin/_latestVersion)
-- CFLib [ ![Download](https://api.bintray.com/packages/freemint/freemint/cflib/images/download.svg) ](https://bintray.com/freemint/freemint/cflib/_latestVersion)
-- gemma [ ![Download](https://api.bintray.com/packages/freemint/freemint/gemma/images/download.svg) ](https://bintray.com/freemint/freemint/gemma/_latestVersion)
-- TosWin2 [ ![Download](https://api.bintray.com/packages/freemint/freemint/toswin2/images/download.svg) ](https://bintray.com/freemint/freemint/toswin2/_latestVersion)
-- QED [ ![Download](https://api.bintray.com/packages/freemint/freemint/qed/images/download.svg) ](https://bintray.com/freemint/freemint/qed/_latestVersion)
-- COPS [ ![Download](https://api.bintray.com/packages/freemint/freemint/cops/images/download.svg) ](https://bintray.com/freemint/freemint/cops/_latestVersion)
-- HypView [ ![Download](https://api.bintray.com/packages/freemint/freemint/hypview/images/download.svg) ](https://bintray.com/freemint/freemint/hypview/_latestVersion)
+- CFLib [ ![Download](https://api.bintray.com/packages/freemint/lib/cflib/images/download.svg) ](https://bintray.com/freemint/lib/cflib/_latestVersion)
+- gemma [ ![Download](https://api.bintray.com/packages/freemint/lib/gemma/images/download.svg) ](https://bintray.com/freemint/lib/gemma/_latestVersion)
+- TosWin2 [ ![Download](https://api.bintray.com/packages/freemint/app/toswin2/images/download.svg) ](https://bintray.com/freemint/app/toswin2/_latestVersion)
+- QED [ ![Download](https://api.bintray.com/packages/freemint/app/qed/images/download.svg) ](https://bintray.com/freemint/app/qed/_latestVersion)
+- COPS [ ![Download](https://api.bintray.com/packages/freemint/app/cops/images/download.svg) ](https://bintray.com/freemint/app/cops/_latestVersion)
+- HypView [ ![Download](https://api.bintray.com/packages/freemint/app/hypview/images/download.svg) ](https://bintray.com/freemint/app/hypview/_latestVersion)
 - fVDI [ ![Download](https://api.bintray.com/packages/freemint/app/fvdi/images/download.svg) ](https://bintray.com/freemint/app/fvdi/_latestVersion)
 
 ## Get in touch
