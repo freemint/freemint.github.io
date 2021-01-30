@@ -83,6 +83,8 @@ Latest binary snapshots (built after each commit):
 
 Right now, the best place to get in touch is the (new) [FreeMiNT Mailing List](https://sourceforge.net/p/freemint/mailman/freemint-discuss) where all (more or less) FreeMiNT related things are discussed. If you want to contribute or found a bug, check out [our wiki page](https://github.com/freemint/freemint/wiki/Newcomer%27s-corner#contributing) and/or [file an issue](https://github.com/freemint/freemint/issues).
 
+However if you have a more generic question or you would like to simply reach as many users as possible, feel free to use [FreeMiNT support section](https://www.atari-forum.com/viewforum.php?f=126) on Atari Forum.
+
 The old mailing list can be found here: <http://mikro.atari.org/mint/index.html>, all the way back from 1993 to 2016/2017.
 
 The archive above also contains the short-lived attempt to have an AtariForge-hosted mailing list (from 05/2016 to 10/2017).
