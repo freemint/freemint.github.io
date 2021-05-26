@@ -63,6 +63,11 @@ Official releases (mostly source only):
 - [fVDI](https://github.com/freemint/fvdi/releases)
 
 ### Snapshots
+
+**BEWARE BINTRAY HAS BEEN CLOSED SINCE MAY 1, 2020: https://jfrog.com/blog/into-the-sunset-bintray-jcenter-gocenter-and-chartcenter**
+
+We are working on an alternative, please be patient.
+
 Latest binary snapshots (built after each commit):
 - FreeMiNT and XaAES [ ![Download](https://api.bintray.com/packages/freemint/freemint/snapshots/images/download.svg) ](https://bintray.com/freemint/freemint/snapshots/_latestVersion) - bootable, preconfigured and maintained FreeMiNT/XaAES archives for the ST, 020+ machines, ARAnyM and the FireBee
 - FreeMiNT and XaAES [ ![Download](https://api.bintray.com/packages/freemint/freemint/snapshots-cpu/images/download.svg) ](https://bintray.com/freemint/freemint/snapshots-cpu/_latestVersion) - per-CPU builds, if you prefer just upgrading an existing installation on your machine, do not include a desktop nor other non-freemint applications
