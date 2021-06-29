@@ -64,25 +64,21 @@ Official releases (mostly source only):
 
 ### Snapshots
 
-**BEWARE BINTRAY HAS BEEN CLOSED SINCE MAY 1, 2020: https://jfrog.com/blog/into-the-sunset-bintray-jcenter-gocenter-and-chartcenter**
-
-We are working on an alternative, please be patient.
-
 Latest binary snapshots (built after each commit):
-- FreeMiNT and XaAES [ ![Download](https://api.bintray.com/packages/freemint/freemint/snapshots/images/download.svg) ](https://bintray.com/freemint/freemint/snapshots/_latestVersion) - bootable, preconfigured and maintained FreeMiNT/XaAES archives for the ST, 020+ machines, ARAnyM and the FireBee
-- FreeMiNT and XaAES [ ![Download](https://api.bintray.com/packages/freemint/freemint/snapshots-cpu/images/download.svg) ](https://bintray.com/freemint/freemint/snapshots-cpu/_latestVersion) - per-CPU builds, if you prefer just upgrading an existing installation on your machine, do not include a desktop nor other non-freemint applications
-- USB drivers for TOS [ ![Download](https://api.bintray.com/packages/freemint/freemint/snapshots-usb4tos/images/download.svg) ](https://bintray.com/freemint/freemint/snapshots-usb4tos/_latestVersion) (68000 only)
-- MiNTlib [ ![Download](https://api.bintray.com/packages/freemint/lib/mintlib/images/download.svg) ](https://bintray.com/freemint/lib/mintlib/_latestVersion)
-- FDlibm [ ![Download](https://api.bintray.com/packages/freemint/lib/fdlibm/images/download.svg) ](https://bintray.com/freemint/lib/fdlibm/_latestVersion)
-- GEMlib [ ![Download](https://api.bintray.com/packages/freemint/lib/gemlib/images/download.svg) ](https://bintray.com/freemint/lib/gemlib/_latestVersion)
-- MiNTbin [ ![Download](https://api.bintray.com/packages/freemint/freemint/mintbin/images/download.svg) ](https://bintray.com/freemint/freemint/mintbin/_latestVersion)
-- CFLib [ ![Download](https://api.bintray.com/packages/freemint/lib/cflib/images/download.svg) ](https://bintray.com/freemint/lib/cflib/_latestVersion)
-- gemma [ ![Download](https://api.bintray.com/packages/freemint/lib/gemma/images/download.svg) ](https://bintray.com/freemint/lib/gemma/_latestVersion)
-- TosWin2 [ ![Download](https://api.bintray.com/packages/freemint/app/toswin2/images/download.svg) ](https://bintray.com/freemint/app/toswin2/_latestVersion)
-- QED [ ![Download](https://api.bintray.com/packages/freemint/app/qed/images/download.svg) ](https://bintray.com/freemint/app/qed/_latestVersion)
-- COPS [ ![Download](https://api.bintray.com/packages/freemint/app/cops/images/download.svg) ](https://bintray.com/freemint/app/cops/_latestVersion)
-- HypView [ ![Download](https://api.bintray.com/packages/freemint/app/hypview/images/download.svg) ](https://bintray.com/freemint/app/hypview/_latestVersion)
-- fVDI [ ![Download](https://api.bintray.com/packages/freemint/app/fvdi/images/download.svg) ](https://bintray.com/freemint/app/fvdi/_latestVersion)
+- FreeMiNT and XaAES [ ![Download](download.svg) ](https://tho-otto.de/snapshots/freemint/bootable/) - bootable, preconfigured and maintained FreeMiNT/XaAES archives for the ST, 020+ machines, ARAnyM and the FireBee
+- FreeMiNT and XaAES [ ![Download](download.svg) ](https://tho-otto.de/snapshots/freemint/cpu/) - per-CPU builds, if you prefer just upgrading an existing installation on your machine, do not include a desktop nor other non-freemint applications
+- USB drivers for TOS [ ![Download](download.svg) ](https://tho-otto.de/snapshots/freemint/cpu/usb4tos) (68000 only)
+- MiNTlib [ ![Download](download.svg) ](https://tho-otto.de/snapshots/mintlib)
+- FDlibm [ ![Download](download.svg) ](https://tho-otto.de/snapshots/fdlibm)
+- GEMlib [ ![Download](download.svg) ](https://tho-otto.de/snapshots/gemlib/)
+- MiNTbin [ ![Download](download.svg) ](https://tho-otto.de/snapshots/mintbin/)
+- CFLib [ ![Download](download.svg) ](https://tho-otto.de/snapshots/cflib/)
+- gemma [ ![Download](download.svg) ](https://tho-otto.de/snapshots/gemma/)
+- TosWin2 [ ![Download](download.svg) ](https://tho-otto.de/snapshots/toswin2/)
+- QED [ ![Download](download.svg) ](https://tho-otto.de/snapshots/qed/)
+- COPS [ ![Download](download.svg) ](https://tho-otto.de/snapshots/cops/)
+- HypView [ ![Download](download.svg) ](https://tho-otto.de/snapshots/hypview/)
+- fVDI [ ![Download](download.svg) ](https://tho-otto.de/snapshots/fvdi/)
 
 ## Get in touch
 
