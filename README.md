@@ -65,20 +65,20 @@ Official releases (mostly source only):
 ### Snapshots
 
 Latest binary snapshots (built after each commit):
-- FreeMiNT and XaAES [ ![Download](download.svg) ](https://tho-otto.de/snapshots/freemint/bootable/) - bootable, preconfigured and maintained FreeMiNT/XaAES archives for the ST, 020+ machines, ARAnyM and the FireBee
-- FreeMiNT and XaAES [ ![Download](download.svg) ](https://tho-otto.de/snapshots/freemint/cpu/) - per-CPU builds, if you prefer just upgrading an existing installation on your machine, do not include a desktop nor other non-freemint applications
-- USB drivers for TOS [ ![Download](download.svg) ](https://tho-otto.de/snapshots/freemint/cpu/usb4tos) (68000 only)
-- MiNTlib [ ![Download](download.svg) ](https://tho-otto.de/snapshots/mintlib)
-- FDlibm [ ![Download](download.svg) ](https://tho-otto.de/snapshots/fdlibm)
-- GEMlib [ ![Download](download.svg) ](https://tho-otto.de/snapshots/gemlib/)
-- MiNTbin [ ![Download](download.svg) ](https://tho-otto.de/snapshots/mintbin/)
-- CFLib [ ![Download](download.svg) ](https://tho-otto.de/snapshots/cflib/)
-- gemma [ ![Download](download.svg) ](https://tho-otto.de/snapshots/gemma/)
-- TosWin2 [ ![Download](download.svg) ](https://tho-otto.de/snapshots/toswin2/)
-- QED [ ![Download](download.svg) ](https://tho-otto.de/snapshots/qed/)
-- COPS [ ![Download](download.svg) ](https://tho-otto.de/snapshots/cops/)
-- HypView [ ![Download](download.svg) ](https://tho-otto.de/snapshots/hypview/)
-- fVDI [ ![Download](download.svg) ](https://tho-otto.de/snapshots/fvdi/)
+- FreeMiNT and XaAES [ ![Download](download.png) ](https://tho-otto.de/snapshots/freemint/bootable/) - bootable, preconfigured and maintained FreeMiNT/XaAES archives for the ST, 020+ machines, ARAnyM and the FireBee
+- FreeMiNT and XaAES [ ![Download](download.png) ](https://tho-otto.de/snapshots/freemint/cpu/) - per-CPU builds, if you prefer just upgrading an existing installation on your machine, do not include a desktop nor other non-freemint applications
+- USB drivers for TOS [ ![Download](download.png) ](https://tho-otto.de/snapshots/freemint/cpu/usb4tos) (68000 only)
+- MiNTlib [ ![Download](download.png) ](https://tho-otto.de/snapshots/mintlib)
+- FDlibm [ ![Download](download.png) ](https://tho-otto.de/snapshots/fdlibm)
+- GEMlib [ ![Download](download.png) ](https://tho-otto.de/snapshots/gemlib/)
+- MiNTbin [ ![Download](download.png) ](https://tho-otto.de/snapshots/mintbin/)
+- CFLib [ ![Download](download.png) ](https://tho-otto.de/snapshots/cflib/)
+- gemma [ ![Download](download.png) ](https://tho-otto.de/snapshots/gemma/)
+- TosWin2 [ ![Download](download.png) ](https://tho-otto.de/snapshots/toswin2/)
+- QED [ ![Download](download.png) ](https://tho-otto.de/snapshots/qed/)
+- COPS [ ![Download](download.png) ](https://tho-otto.de/snapshots/cops/)
+- HypView [ ![Download](download.png) ](https://tho-otto.de/snapshots/hypview/)
+- fVDI [ ![Download](download.png) ](https://tho-otto.de/snapshots/fvdi/)
 
 ## Get in touch
 
