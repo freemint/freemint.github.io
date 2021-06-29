@@ -27,6 +27,7 @@ Those are the main (and most important) projects. There are several affiliated r
 - [COPS](https://github.com/freemint/cops) (XCONTROL.ACC replacement)
 - [HypView](https://github.com/freemint/hypview) (ST-Guide replacement)
 - [fVDI](https://github.com/freemint/fvdi) (Fenix VDI, a free (N)VDI replacement)
+- [TeraDesk](https://github.com/freemint/teradesk) (Tera Desktop, an open-source alternative desktop)
 - [tos.hyp](https://github.com/freemint/tos.hyp) (most complete programmer's reference for TOS/GEM programming, generated [here](https://freemint.github.io/tos.hyp))
 
 - [HighWire](https://github.com/freemint/highwire) (GEM web browser)
@@ -61,6 +62,7 @@ Official releases (mostly source only):
 - [COPS](https://github.com/freemint/cops/releases)
 - [HypView](https://github.com/freemint/hypview/releases)
 - [fVDI](https://github.com/freemint/fvdi/releases)
+- [TeraDesk](https://github.com/freemint/teradesk/releases)
 
 ### Snapshots
 
@@ -79,6 +81,7 @@ Latest binary snapshots (built after each commit):
 - COPS [ ![Download](download.png) ](https://tho-otto.de/snapshots/cops/)
 - HypView [ ![Download](download.png) ](https://tho-otto.de/snapshots/hypview/)
 - fVDI [ ![Download](download.png) ](https://tho-otto.de/snapshots/fvdi/)
+- TeraDesk [ ![Download](download.png) ](https://tho-otto.de/snapshots/teradesk/)
 
 ## Get in touch
 
