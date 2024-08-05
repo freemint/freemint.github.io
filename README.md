@@ -66,10 +66,10 @@ Official releases (mostly source only):
 
 ### Snapshots
 
-Latest binary snapshots (built after each commit):
-- FreeMiNT and XaAES [ ![Download](download.png) ](https://tho-otto.de/snapshots/freemint/bootable/) - bootable, preconfigured and maintained FreeMiNT/XaAES archives for the ST, 020+ machines, ARAnyM and the FireBee
+FreeMiNT hasn't got a proper release since the 1.18.0 version in 2013 due to lack of dedicated maintainer(s). Therefore if you want to try FreeMiNT, download one of the binary snapshots (built after each commit):
+- FreeMiNT and XaAES [ ![Download](download.png) ](https://tho-otto.de/snapshots/freemint/bootable/) - bootable, preconfigured and maintained FreeMiNT/XaAES archives for the ST, 020+ machines with the FPU, ARAnyM and the FireBee
 - FreeMiNT and XaAES [ ![Download](download.png) ](https://tho-otto.de/snapshots/freemint/cpu/) - per-CPU builds, if you prefer just upgrading an existing installation on your machine, do not include a desktop nor other non-freemint applications
-- USB drivers for TOS [ ![Download](download.png) ](https://tho-otto.de/snapshots/freemint/usb4tos/) (68000 only)
+- USB drivers for TOS [ ![Download](download.png) ](https://tho-otto.de/snapshots/freemint/usb4tos/)
 - MiNTlib [ ![Download](download.png) ](https://tho-otto.de/snapshots/mintlib)
 - FDlibm [ ![Download](download.png) ](https://tho-otto.de/snapshots/fdlibm)
 - GEMlib [ ![Download](download.png) ](https://tho-otto.de/snapshots/gemlib/)
