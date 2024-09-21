@@ -17,19 +17,21 @@ FreeMiNT project is a community based hub for several more or less related proje
 - [m68k-atari-mint-binutils-gdb](https://github.com/freemint/m68k-atari-mint-binutils-gdb) (binutils and gdb for FreeMiNT)
 - [freemint.github.io](https://github.com/freemint/freemint.github.io) (project website sources, you're reading it)
 
-Those are the main (and most important) projects. There are several affiliated repositories, either for historical reasons or because the former SpareMiNT CVS server hosted them (the first section belongs to projects which are still actively maintained):
+Those are the main (and most important) projects. There are several affiliated repositories, either for historical reasons or because the former SpareMiNT CVS server hosted them.
 
+ Actively maintained projects:
 - [libcmini](https://github.com/freemint/libcmini) (minimalistic C library)
 - [CFLib](https://github.com/freemint/cflib) (extension library for GEM programming)
 - [gemma](https://github.com/freemint/gemma) (SLB based GEM library)
 - [TosWin2](https://github.com/freemint/toswin2) (GEM terminal emulator)
 - [QED](https://github.com/freemint/qed) (GEM text editor)
 - [COPS](https://github.com/freemint/cops) (XCONTROL.ACC replacement)
-- [HypView](https://github.com/freemint/hypview) (ST-Guide replacement)
 - [fVDI](https://github.com/freemint/fvdi) (Fenix VDI, a free (N)VDI replacement)
 - [TeraDesk](https://github.com/freemint/teradesk) (Tera Desktop, an open-source alternative desktop)
 - [tos.hyp](https://github.com/freemint/tos.hyp) (most complete programmer's reference for TOS/GEM programming, generated [here](https://freemint.github.io/tos.hyp))
 
+Inactive projects:
+- [HypView](https://github.com/freemint/hypview) (ST-Guide replacement)
 - [HighWire](https://github.com/freemint/highwire) (GEM web browser)
 - [Phoenix](https://github.com/freemint/phoenix) (database GEM app)
 - [Smurf](https://github.com/freemint/smurf) (GEM painting app)
@@ -54,13 +56,13 @@ Official releases (mostly source only):
 - [m68k-atari-mint-gcc](https://github.com/freemint/m68k-atari-mint-gcc/releases)
 - [m68k-atari-mint-binutils-gdb](https://github.com/freemint/m68k-atari-mint-binutils-gdb/releases)
 
+Other projects:
 - [libcmini](https://github.com/freemint/libcmini/releases)
 - [CFLib](https://github.com/freemint/cflib/releases)
 - [gemma](https://github.com/freemint/gemma/releases)
 - [TosWin2](https://github.com/freemint/toswin2/releases)
 - [QED](https://github.com/freemint/qed/releases)
 - [COPS](https://github.com/freemint/cops/releases)
-- [HypView](https://github.com/freemint/hypview/releases)
 - [fVDI](https://github.com/freemint/fvdi/releases)
 - [TeraDesk](https://github.com/freemint/teradesk/releases)
 
@@ -79,7 +81,6 @@ FreeMiNT hasn't got a proper release since the 1.18.0 version in 2013 due to lac
 - TosWin2 [ ![Download](download.png) ](https://tho-otto.de/snapshots/toswin2/)
 - QED [ ![Download](download.png) ](https://tho-otto.de/snapshots/qed/)
 - COPS [ ![Download](download.png) ](https://tho-otto.de/snapshots/cops/)
-- HypView [ ![Download](download.png) ](https://tho-otto.de/snapshots/hypview/)
 - fVDI [ ![Download](download.png) ](https://tho-otto.de/snapshots/fvdi/)
 - TeraDesk [ ![Download](download.png) ](https://tho-otto.de/snapshots/teradesk/)
 
