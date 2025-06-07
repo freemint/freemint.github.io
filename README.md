@@ -6,7 +6,7 @@ This website is a frontend for the [freemint github repositories](https://github
 
 FreeMiNT project is a community based hub for several more or less related projects:
 
-- [FreeMiNT](https://github.com/freemint/freemint) (kernel)
+- [FreeMiNT](https://github.com/freemint/freemint) (kernel, see also, quite outdate these days, [New MiNT system calls](https://freemint.github.io/freemint) generated from the repository)
 - [XaAES](https://github.com/freemint/freemint/tree/master/xaaes) (multitasking GEM AES replacement, part of FreeMiNT now)
 - [MiNTlib](https://github.com/freemint/mintlib) (libc for FreeMiNT and TOS, a C standard library)
 - [FDlibm](https://github.com/freemint/fdlibm) (libm for FreeMiNT and TOS, a C math library)
