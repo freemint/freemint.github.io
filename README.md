@@ -20,28 +20,30 @@ FreeMiNT project is a community based hub for several more or less related proje
 Those are the main (and most important) projects. There are several affiliated repositories, either for historical reasons or because the former SpareMiNT CVS server hosted them.
 
  Actively maintained projects:
-- [libcmini](https://github.com/freemint/libcmini) (minimalistic C library)
 - [CFLib](https://github.com/freemint/cflib) (extension library for GEM programming)
-- [gemma](https://github.com/freemint/gemma) (SLB based GEM library)
-- [TosWin2](https://github.com/freemint/toswin2) (GEM terminal emulator)
-- [QED](https://github.com/freemint/qed) (GEM text editor)
 - [COPS](https://github.com/freemint/cops) (XCONTROL.ACC replacement)
+- [dosfstools](https://github.com/freemint/dosfstools) (mkfs.fat & fsck.fat)
+- [e2fsprogs](https://github.com/freemint/e2fsprogs) (mke2fs & e2fsck)
 - [fVDI](https://github.com/freemint/fvdi) (Fenix VDI, a free (N)VDI replacement)
+- [gemma](https://github.com/freemint/gemma) (SLB based GEM library)
+- [libcmini](https://github.com/freemint/libcmini) (minimalistic C library)
+- [QED](https://github.com/freemint/qed) (GEM text editor)
 - [TeraDesk](https://github.com/freemint/teradesk) (Tera Desktop, an open-source alternative desktop)
 - [tos.hyp](https://github.com/freemint/tos.hyp) (most complete programmer's reference for TOS/GEM programming, generated [here](https://freemint.github.io/tos.hyp))
+- [TosWin2](https://github.com/freemint/toswin2) (GEM terminal emulator)
 
 Inactive projects:
-- [HypView](https://github.com/freemint/hypview) (ST-Guide replacement)
 - [HighWire](https://github.com/freemint/highwire) (GEM web browser)
+- [HypView](https://github.com/freemint/hypview) (ST-Guide replacement)
+- [init scripts](https://github.com/freemint/initscripts) (basic shell scripts for system startup)
+- [init](https://github.com/freemint/mintinit) (/sbin/init and related programs)
+- [oVDI](https://github.com/freemint/ovdi) (Odd Skancke's VDI project)
 - [Phoenix](https://github.com/freemint/phoenix) (database GEM app)
 - [Smurf](https://github.com/freemint/smurf) (GEM painting app)
-- [oVDI](https://github.com/freemint/ovdi) (Odd Skancke's VDI project)
-- [vlogin](https://github.com/freemint/vlogin) (VDI login)
-- [xg](https://github.com/freemint/xg) (X11 6.4 for GEM)
-- [init](https://github.com/freemint/mintinit) (/sbin/init and related programs)
-- [init scripts](https://github.com/freemint/initscripts) (basic shell scripts for system startup)
-- [wiki tools](https://github.com/freemint/wikitools) (a couple of scripts to convert between UDO and old sparemint wiki)
 - [sparemint](https://github.com/freemint/sparemint) (SpareMiNT website and archive, predecessor of this hub; github mirror [here](https://freemint.github.io/sparemint/sparemint))
+- [vlogin](https://github.com/freemint/vlogin) (VDI login)
+- [wiki tools](https://github.com/freemint/wikitools) (a couple of scripts to convert between UDO and old sparemint wiki)
+- [xg](https://github.com/freemint/xg) (X11 6.4 for GEM)
 
 ## Download
 ### Releases
