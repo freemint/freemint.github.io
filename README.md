@@ -77,6 +77,7 @@ FreeMiNT hasn't got a proper release since the 1.18.0 version in 2013 due to lac
 - MiNTlib [ ![Download](download.png) ](https://atari.joska.no/snapshots/mintlib)
 - FDlibm [ ![Download](download.png) ](https://atari.joska.no/snapshots/fdlibm)
 - GEMlib [ ![Download](download.png) ](https://atari.joska.no/snapshots/gemlib/)
+- libcmini [ ![Download](download.png) ](https://tho-otto.de/snapshots/libcmini/)
 - MiNTbin [ ![Download](download.png) ](https://atari.joska.no/snapshots/mintbin/)
 - CFLib [ ![Download](download.png) ](https://atari.joska.no/snapshots/cflib/)
 - gemma [ ![Download](download.png) ](https://atari.joska.no/snapshots/gemma/)
@@ -85,6 +86,7 @@ FreeMiNT hasn't got a proper release since the 1.18.0 version in 2013 due to lac
 - COPS [ ![Download](download.png) ](https://atari.joska.no/snapshots/cops/)
 - fVDI [ ![Download](download.png) ](https://atari.joska.no/snapshots/fvdi/)
 - TeraDesk [ ![Download](download.png) ](https://atari.joska.no/snapshots/teradesk/)
+- highwire [ ![Download](download.png) ](https://tho-otto.de/snapshots/highwire/)
 
 ## Get in touch
 
