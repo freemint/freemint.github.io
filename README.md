@@ -71,20 +71,20 @@ Other projects:
 ### Snapshots
 
 FreeMiNT hasn't got a proper release since the 1.18.0 version in 2013 due to lack of dedicated maintainer(s). Therefore if you want to try FreeMiNT, download one of the binary snapshots (built after each commit):
-- FreeMiNT and XaAES [ ![Download](download.png) ](https://tho-otto.de/snapshots/freemint/bootable/) - bootable, preconfigured and maintained FreeMiNT/XaAES archives for the ST, 020+ machines with the FPU, ARAnyM and the FireBee
-- FreeMiNT and XaAES [ ![Download](download.png) ](https://tho-otto.de/snapshots/freemint/cpu/) - per-CPU builds, if you prefer just upgrading an existing installation on your machine, do not include a desktop nor other non-freemint applications
-- USB drivers for TOS [ ![Download](download.png) ](https://tho-otto.de/snapshots/freemint/usb4tos/)
-- MiNTlib [ ![Download](download.png) ](https://tho-otto.de/snapshots/mintlib)
-- FDlibm [ ![Download](download.png) ](https://tho-otto.de/snapshots/fdlibm)
-- GEMlib [ ![Download](download.png) ](https://tho-otto.de/snapshots/gemlib/)
-- MiNTbin [ ![Download](download.png) ](https://tho-otto.de/snapshots/mintbin/)
-- CFLib [ ![Download](download.png) ](https://tho-otto.de/snapshots/cflib/)
-- gemma [ ![Download](download.png) ](https://tho-otto.de/snapshots/gemma/)
-- TosWin2 [ ![Download](download.png) ](https://tho-otto.de/snapshots/toswin2/)
-- QED [ ![Download](download.png) ](https://tho-otto.de/snapshots/qed/)
-- COPS [ ![Download](download.png) ](https://tho-otto.de/snapshots/cops/)
-- fVDI [ ![Download](download.png) ](https://tho-otto.de/snapshots/fvdi/)
-- TeraDesk [ ![Download](download.png) ](https://tho-otto.de/snapshots/teradesk/)
+- FreeMiNT and XaAES [ ![Download](download.png) ](https://atari.joska.no/snapshots/freemint/bootable/) - bootable, preconfigured and maintained FreeMiNT/XaAES archives for the ST, 020+ machines with the FPU, ARAnyM and the FireBee
+- FreeMiNT and XaAES [ ![Download](download.png) ](https://atari.joska.no/snapshots/freemint/cpu/) - per-CPU builds, if you prefer just upgrading an existing installation on your machine, do not include a desktop nor other non-freemint applications
+- USB drivers for TOS [ ![Download](download.png) ](https://atari.joska.no/snapshots/freemint/usb4tos/)
+- MiNTlib [ ![Download](download.png) ](https://atari.joska.no/snapshots/mintlib)
+- FDlibm [ ![Download](download.png) ](https://atari.joska.no/snapshots/fdlibm)
+- GEMlib [ ![Download](download.png) ](https://atari.joska.no/snapshots/gemlib/)
+- MiNTbin [ ![Download](download.png) ](https://atari.joska.no/snapshots/mintbin/)
+- CFLib [ ![Download](download.png) ](https://atari.joska.no/snapshots/cflib/)
+- gemma [ ![Download](download.png) ](https://atari.joska.no/snapshots/gemma/)
+- TosWin2 [ ![Download](download.png) ](https://atari.joska.no/snapshots/toswin2/)
+- QED [ ![Download](download.png) ](https://atari.joska.no/snapshots/qed/)
+- COPS [ ![Download](download.png) ](https://atari.joska.no/snapshots/cops/)
+- fVDI [ ![Download](download.png) ](https://atari.joska.no/snapshots/fvdi/)
+- TeraDesk [ ![Download](download.png) ](https://atari.joska.no/snapshots/teradesk/)
 
 ## Get in touch
 
