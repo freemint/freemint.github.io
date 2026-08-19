@@ -31,9 +31,8 @@ Those are the main (and most important) projects. There are several affiliated r
 - [TeraDesk](https://github.com/freemint/teradesk) (Tera Desktop, an open-source alternative desktop)
 - [tos.hyp](https://github.com/freemint/tos.hyp) (most complete programmer's reference for TOS/GEM programming, generated [here](https://freemint.github.io/tos.hyp))
 - [TosWin2](https://github.com/freemint/toswin2) (GEM terminal emulator)
-- [HighWire](https://github.com/freemint/highwire) (GEM web browser)
 
-Inactive projects:
+Inactive projects looking for a maintainer:
 - [HypView](https://github.com/freemint/hypview) (ST-Guide replacement)
 - [init scripts](https://github.com/freemint/initscripts) (basic shell scripts for system startup)
 - [init](https://github.com/freemint/mintinit) (/sbin/init and related programs)
