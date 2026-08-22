@@ -85,7 +85,6 @@ FreeMiNT hasn't got a proper release since the 1.18.0 version in 2013 due to lac
 - COPS [ ![Download](download.png) ](https://atari.joska.no/snapshots/cops/)
 - fVDI [ ![Download](download.png) ](https://atari.joska.no/snapshots/fvdi/)
 - TeraDesk [ ![Download](download.png) ](https://atari.joska.no/snapshots/teradesk/)
-- HighWire [ ![Download](download.png) ](https://atari.joska.no/snapshots/highwire/)
 
 ## Get in touch
 
