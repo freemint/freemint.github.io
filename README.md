@@ -36,6 +36,7 @@ Inactive projects looking for a maintainer:
 - [HypView](https://github.com/freemint/hypview) (ST-Guide replacement)
 - [init scripts](https://github.com/freemint/initscripts) (basic shell scripts for system startup)
 - [init](https://github.com/freemint/mintinit) (/sbin/init and related programs)
+- [oldstuff](https://github.com/freemint/oldstuff) (sources of the SpareMiNT oldstuff package: init, getty, reboot, shutdown, ...)
 - [oVDI](https://github.com/freemint/ovdi) (Odd Skancke's VDI project)
 - [Phoenix](https://github.com/freemint/phoenix) (database GEM app)
 - [Smurf](https://github.com/freemint/smurf) (GEM painting app)
